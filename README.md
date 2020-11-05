@@ -1,4 +1,4 @@
-# emojicalculator
+# python-calculator
 A little python calculator.
 A simple arithmetic calculator capable of computing statements involving addition, subtraction, multiplication and division. 
 It accepts ASCII characters, words, or emoji. The output is an emoji number or 🤷 if there's an error.
